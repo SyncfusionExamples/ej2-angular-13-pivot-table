@@ -1,4 +1,4 @@
-# Getting Started with Angular 13 Pivot Table Sample
+# Getting Started with Angular 13 Pivot Table
 
 The [Angular Pivot Table](https://www.syncfusion.com/angular-components/angular-pivot-table?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples) is a multi-dimensional data visualization component built on top of the relational data sources. The pivot report can be managed dynamically at runtime along with other capabilities like aggregation, filtering and sorting (field and value based).
 
