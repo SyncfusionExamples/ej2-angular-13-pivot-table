@@ -1,4 +1,6 @@
-# GridSample
+# Getting Started with Angular 13 Pivot Table Sample
+
+The [Angular Pivot Table](https://www.syncfusion.com/angular-components/angular-pivot-table?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples) is a multi-dimensional data visualization component built on top of the relational data sources. The pivot report can be managed dynamically at runtime along with other capabilities like aggregation, filtering and sorting (field and value based).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
@@ -26,6 +28,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## Resources
+
+* [Getting Started](https://ej2.syncfusion.com/angular/documentation/pivotview/getting-started/?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples)
+* [View Online Demos](https://ej2.syncfusion.com/angular/demos/#/material/pivot-table/default?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples)
+* [Product Page](https://www.syncfusion.com/angular-components/angular-pivot-table?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples)
+
 ## Related Links
 
 [Learn More about Angular Components](https://www.syncfusion.com/angular-ui-components/?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples)<br/><br/>
@@ -42,7 +50,7 @@ Syncfusion's [Angular UI Components](https://www.syncfusion.com/angular-ui-compo
 
 ## About Syncfusion
 
-Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 28000+ companies and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
+Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29000+ companies and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
 
 Today, we provide 1700+ controls and frameworks for web ([ASP.NET Core](https://www.syncfusion.com/aspnet-core-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [ASP.NET WebForms](https://www.syncfusion.com/jquery/aspnet-webforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [Angular](https://www.syncfusion.com/angular-ui-components?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [React](https://www.syncfusion.com/react-ui-components?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [Blazor](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [Vue](https://www.syncfusion.com/vue-ui-components?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples)), mobile ([WinForms](https://www.syncfusion.com/WinForms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples)), and desktop development ([Windows Forms](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [WPF](https://www.syncfusion.com/wpf-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [WinUI)](https://www.syncfusion.com/winui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples), [.NET MAUI](https://www.syncfusion.com/maui-controls), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=angular-pivot-table-github-samples)). We provide ready-to-deploy enterprise software for dashboards, reports, data integration, and big data processing. Many customers have saved millions in licensing fees by deploying our software.
 
